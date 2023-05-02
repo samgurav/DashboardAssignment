@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+node_modules/
+build/
+dist/
+tmp/
+temp/
+/coverage/
+/.nyc_output/
+.cache/
+
+data/
+.env
+package-lock.json
+package-lock.json
